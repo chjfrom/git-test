@@ -37,3 +37,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Git 연습
 첫 번째 수정입니다.
+
+## Git 연습
+두 번째 수정입니다.
